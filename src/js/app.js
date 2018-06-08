@@ -3,6 +3,7 @@ import { CONFIG } from './config.js'
 import { Enemy } from './Enemy.js'
 import { Plane } from './Plane.js'
 import { Keyboard } from './Keyboard.js'
+import '../style.css'
 
 // 元素
 let container = document.getElementById('game')
