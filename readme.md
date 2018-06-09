@@ -4,9 +4,9 @@
 
 按左右方向键操控飞机移动,  按空格键射击,  击中敌人得一分
 
-![image-20180608184111560](/var/folders/n3/91qp89v11n39xs_fvth32yr40000gn/T/abnerworks.Typora/image-20180608184111560.png)
+![image-20180608184111560](https://ws4.sinaimg.cn/large/006tKfTcgy1fs4vg995l8j312c0x20ve.jpg)
 
-![image-20180608184135521](/var/folders/n3/91qp89v11n39xs_fvth32yr40000gn/T/abnerworks.Typora/image-20180608184135521.png)
+![image-20180608184135521](https://ws1.sinaimg.cn/large/006tKfTcgy1fs4vg858rfj312u0x83zo.jpg)
 
 ## 使用方法
 
