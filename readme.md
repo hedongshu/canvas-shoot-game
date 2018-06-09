@@ -1,8 +1,12 @@
 # canvas-shoot-game
 
+## demo
+
+https://hedongshu.github.io/canvas-shoot-game/
+
 这个小游戏基于 canvas / JavaScript , 默认一共六关
 
-按左右方向键操控飞机移动,  按空格键射击,  击中敌人得一分
+按左右方向键操控飞机移动, 按空格键射击, 击中敌人得一分
 
 ![image-20180608184111560](https://ws4.sinaimg.cn/large/006tKfTcgy1fs4vg995l8j312c0x20ve.jpg)
 
@@ -49,7 +53,6 @@ export var CONFIG = {
     }, // 默认飞机的尺寸,
     planeIcon: './img/plane.png'
 }
-
 ```
 
 ## 最后
